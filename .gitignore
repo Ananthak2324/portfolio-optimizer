@@ -3,7 +3,11 @@ venv/
 
 # Ignore Python cache files
 __pycache__/
+.ipynb_checkpoints/
 *.pyc
+.env
+.venv/
 
 # Ignore macOS system file
 .DS_Store
+
